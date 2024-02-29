@@ -1,1 +1,1 @@
-api_key = "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"
+api_key = "api key de chat pgt"
